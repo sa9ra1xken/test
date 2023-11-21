@@ -1,0 +1,1 @@
+-I"../." -I".././src" -I"C:/MEGA/HobbyElec/SSDAC/xSSDAC/xTIME/WORKSPACE040/module_FatFs" -I"C:/MEGA/HobbyElec/SSDAC/xSSDAC/xTIME/WORKSPACE040/module_FatFs/src" -I"C:/MEGA/HobbyElec/SSDAC/xSSDAC/xTIME/WORKSPACE040/module_sdcard4bit" -I"C:/MEGA/HobbyElec/SSDAC/xSSDAC/xTIME/WORKSPACE040/module_sdcard4bit/src"
